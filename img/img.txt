@@ -1,0 +1,10 @@
+        <div class="contenedor-sobre-nosotros">
+
+            <div class="contenido-textos"><br>
+                Texto que queres poner
+                    
+            </div>
+
+            <img class="igma" src="img/R.png" alt="a">
+
+        </div>
